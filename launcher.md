@@ -1,0 +1,1 @@
+-console -novid +exec autoexec -high -refresh 120 -tickrate 128
