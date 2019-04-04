@@ -1,1 +1,1 @@
--console -novid +exec autoexec -high -refresh 120 -tickrate 128
+-novid -no-browser -nojoy +fps_max 500 -tickrate 128
