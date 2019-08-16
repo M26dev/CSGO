@@ -1,1 +1,1 @@
--novid -no-browser -nojoy +fps_max 500 -tickrate 128
+-console +exec myconfig -novid -no-browser -nojoy +fps_max 500 -tickrate 128
